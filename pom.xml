@@ -18,8 +18,9 @@
 		<dependency>
 			<groupId>io.netty</groupId>
 			<artifactId>netty-all</artifactId>
-			<version>5.0.0.Alpha1</version>
+			<version>5.0.0.Alpha2</version>
 		</dependency>
+
 		<!-- 分析、编辑和创建Java字节码的类库(Netty辅助依赖) -->
 		<dependency>
 			<groupId>org.javassist</groupId>
